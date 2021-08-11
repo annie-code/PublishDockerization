@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>PublishApiContainer</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\Properties\PublishProfiles\PublishApiContainer.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
