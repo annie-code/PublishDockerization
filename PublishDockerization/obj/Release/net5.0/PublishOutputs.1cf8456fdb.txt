@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.exe
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\appsettings.Development.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\appsettings.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.deps.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.runtimeconfig.json
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\PublishDockerization.pdb
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\Microsoft.OpenApi.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ContentDevelopment\IIHT\C#\DemoBasic\DF008\Cloud\PublishDockerization\PublishDockerization\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
